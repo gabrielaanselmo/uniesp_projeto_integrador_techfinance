@@ -1,0 +1,19 @@
+Projeto de App de Banco em Java
+
+Tech Finance
+
+Este projeto de aplicativo de banco foi desenvolvido em Java e possui as seguintes classes:
+
+Conta Corrente: classe responsável por gerenciar contas correntes, permitindo depósitos, saques e transferências.
+
+Conta Poupança: classe responsável por gerenciar contas poupança, permitindo depósitos e saques.
+
+Investimentos: classe responsável por gerenciar investimentos, permitindo depósitar um valor para investir e acompanhar o investimento.
+
+Pix: classe responsável por gerenciar transferências instantâneas através do sistema PIX, permitindo enviar dinheiro de forma rápida e segura.
+
+Caixinha: classe responsável por gerenciar uma caixa física de dinheiro, permitindo que o usuário adicione ou retire dinheiro de sua conta bancária.
+
+Cada uma das classes acima foi implementada com métodos e atributos específicos para atender aos requisitos do projeto de app de banco.
+
+Esse projeto foi realizado como parte do curso de Sistemas para Internet da faculdade Uniesp, e visou desenvolver habilidades em java e em programação orientada a objetos.
