@@ -1,7 +1,7 @@
 # Projeto Integrador - Tech Finance
 > Status do projeto: Finalizado.
 
-## 👥 Equipe
+## 🧑🏻‍💻 Equipe
 
 Nossa equipe é composta pelos seguintes integrantes:
 
@@ -25,3 +25,8 @@ Nosso objetivo é criar uma experiência bancária digital, focada na facilidade
 - Transferência
 - Pix
 - Investimentos
+
+## ⚙️ Diagrama de Uso
+![diagramadeuso](https://github.com/gabrielaanselmo/uniesp_projeto_integrador_techfinance/assets/112910372/c500c07f-35c4-4190-b3f6-2cfc7f2c5d5b)
+## ⚙️ Diagrama de Classe
+![diagramadeclasse](https://github.com/gabrielaanselmo/uniesp_projeto_integrador_techfinance/assets/112910372/003ee91e-2a6f-4dc2-830f-ec3893bb3184)
