@@ -25,6 +25,7 @@ Nosso objetivo é criar uma experiência bancária digital, focada na facilidade
 - Transferência
 - Pix
 - Investimentos
+- Caixinha
 
 ## ⚙️ Diagrama de Uso
 ![diagramadeuso](https://github.com/gabrielaanselmo/uniesp_projeto_integrador_techfinance/assets/112910372/c500c07f-35c4-4190-b3f6-2cfc7f2c5d5b)
