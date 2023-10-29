@@ -1,33 +1,27 @@
 # Projeto Integrador - Tech Finance
 > Status do projeto: Finalizado.
 
-## 🧑🏻‍💻 Equipe
+## 🙋 Equipe de Desenvolvimento
 
-Nossa equipe é composta pelos seguintes integrantes:
+O projeto foi levado a cabo por uma equipe dedicada e talentosa, composta por:
 
-### - Maria Gabriela Anselmo de Souza Batista
-### - Diego de Oliveira Santana Cipirano
-### - Helcius Araújo Nóbrega Cabral 
-### - Matheus Araújo Ataide
+- Maria Gabriela Anselmo de Souza Batista
+- Diego de Oliveira Santana Cipirano
+- Helcius Araújo Nóbrega Cabral 
+- Matheus Araújo Ataide
 
-## 📋 Sobre o Tech Finance
+## 🏦 Sobre o Tech Finance
 
-O Tech Finance é um banco digital que oferece serviços bancários. Desenvolvido como parte de um trabalho acadêmico do Projeto Integrador, nosso objetivo é aplicar conceitos de programação e desenvolvimento de software na criação de uma aplicação bancária inovadora.
+O Tech Finance é uma inovação no setor bancário, operando completamente no meio digital para oferecer uma gama completa de serviços bancários. Este projeto, desenvolvido como parte do nosso trabalho acadêmico no Projeto Integrador, foi uma oportunidade para aplicarmos nossos conhecimentos em programação e desenvolvimento de software, resultando em uma aplicação bancária moderna e eficiente.
 
-## 💡 Proposta
-Nosso objetivo é criar uma experiência bancária digital, focada na facilidade de uso e praticidade;
+## 💼 Proposta do Projeto
+Nosso intuito com o Tech Finance é remodelar a experiência bancária, trazendo-a para o mundo digital com foco em praticidade e facilidade de uso. Queremos que nossos usuários tenham à disposição um banco que se ajuste às suas vidas corridas e que ofereça soluções financeiras rápidas e seguras.
 
-## 🛠 Funcionalidades
+## 🚀 Funcionalidades Principais
 
 - Cadastro de clientes
-- Login e autenticação de usuários
-- Conta Corrente/Conta Poupança
-- Transferência
-- Pix
+- Autenticação de Usuários
+- Contas Bancárias
+- Transferências e PIX
 - Investimentos
 - Caixinha
-
-## ⚙️ Diagrama de Uso
-![diagramadeuso](https://github.com/gabrielaanselmo/uniesp_projeto_integrador_techfinance/assets/112910372/c500c07f-35c4-4190-b3f6-2cfc7f2c5d5b)
-## ⚙️ Diagrama de Classe
-![diagramadeclasse](https://github.com/gabrielaanselmo/uniesp_projeto_integrador_techfinance/assets/112910372/003ee91e-2a6f-4dc2-830f-ec3893bb3184)
